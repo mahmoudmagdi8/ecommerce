@@ -71,7 +71,7 @@ export default function RegisterPage() {
                 <FormItem>
                   <FormLabel>Username</FormLabel>
                   <FormControl>
-                    <Input placeholder="sayed ragab" {...field} />
+                    <Input placeholder="mahmoud magdy" {...field} />
                   </FormControl>
                   <FormMessage>
                     {registerFormAction.error?.name?.[0]}
